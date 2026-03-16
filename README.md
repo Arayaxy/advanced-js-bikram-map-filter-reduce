@@ -134,9 +134,9 @@ const inventory = [
 
 ### Reduce ###
 
-- [ ] 6.- Dado el siguiente array **numeros** [39, 2, 4, 25, 62], obten la multiplicación de todos los elementos del array
+- [ ] 7.- Dado el siguiente array **numeros** [39, 2, 4, 25, 62], obten la multiplicación de todos los elementos del array
 
-- [ ] 7.- Concatena todos los elementos del array con reduce para que devuelva una sola frase
+- [ ] 8.- Concatena todos los elementos del array con reduce para que devuelva una sola frase
 ```
 const sentenceElements = [
   'Me',
@@ -155,7 +155,7 @@ const sentenceElements = [
 
 ```
 
-- [ ] 8.- Obtener el monto total de los elementos que pertenecen a catergory "code" en el siguiente array.
+- [ ] 9.- Obtener el monto total de los elementos que pertenecen a catergory "code" en el siguiente array.
 ```
 const books = [
   {
