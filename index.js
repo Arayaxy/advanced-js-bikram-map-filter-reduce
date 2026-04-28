@@ -154,3 +154,5 @@ const books = [
 const result9 = books
   .filter(book => book.category === 'code')
   .reduce((acc, book) => acc + book.price, 0);
+
+  aaaa
